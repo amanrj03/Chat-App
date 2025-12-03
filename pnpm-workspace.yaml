@@ -1,5 +1,0 @@
-ignoredBuiltDependencies:
-  - '@tailwindcss/oxide'
-  - bufferutil
-  - sharp
-  - utf-8-validate
